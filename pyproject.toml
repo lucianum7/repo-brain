@@ -15,7 +15,7 @@ dependencies = []
 
 [project.optional-dependencies]
 mcp = ["mcp>=2.0,<3"]
-dev = ["pytest>=8", "build>=1", "ruff>=0.6"]
+dev = ["pytest>=8", "build>=1", "ruff>=0.16.1"]
 
 [project.scripts]
 repo-brain = "repo_brain.cli:main"
