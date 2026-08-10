@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "repo-brain": {
+      "command": "repo-brain",
+      "args": ["mcp", "serve"]
+    }
+  }
+}
+

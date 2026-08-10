@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: Repo Brain
+version: 0.2.0
+message: "If Repo Brain helps your work, please cite the project."
+authors:
+  - family-names: Lucianum7
+license: Apache-2.0
+
