@@ -1,0 +1,9 @@
+{
+  "name": "repo-brain",
+  "description": "Persistent repository memory for Claude Code.",
+  "version": "0.3.0",
+  "author": {"name": "Lucianum7"},
+  "skills": ["./skills/repo-brain"],
+  "hooks": "./hooks/hooks.json"
+}
+

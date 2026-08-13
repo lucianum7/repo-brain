@@ -1,0 +1,9 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {"matcher": "Read", "hooks": [{"type": "command", "command": "python scripts/repo_brain_hook.py read"}]},
+      {"matcher": "Write|Edit", "hooks": [{"type": "command", "command": "python scripts/repo_brain_hook.py change"}]}
+    ]
+  }
+}
+

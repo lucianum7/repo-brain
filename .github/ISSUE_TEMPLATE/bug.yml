@@ -1,0 +1,10 @@
+name: Bug report
+description: Report a reproducible problem
+body:
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Include command, expected behavior and actual behavior. Do not include secrets.
+    validations: {required: true}
+
