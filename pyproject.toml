@@ -14,7 +14,7 @@ keywords = ["ai", "coding-agents", "codex", "claude-code", "mcp", "sqlite", "age
 dependencies = []
 
 [project.optional-dependencies]
-mcp = ["mcp>=2.0,<3"]
+mcp = ["mcp>=2.3.0,<3"]
 dev = ["pytest>=8", "build>=1", "ruff>=0.6"]
 
 [project.scripts]
